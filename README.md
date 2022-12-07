@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Pivot Table Analysi |This assignement was given during the Excel training week.            | https://github.com/arowusu/First-assignement.git      |
+| 2 |Data Visualisation          |  - This project was an assignement given on the excel training week on how to visualise data using pivot table in excel.              |https://github.com/arowusu/Second-Assignment.git      |
+| 3 | Tip Calculator             |  This project was given during the introduction to python week             | https://github.com/arowusu/Third-Assignment.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
